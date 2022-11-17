@@ -1,0 +1,36 @@
+.bgimg{
+    background-image: url("https://res.cloudinary.com/dfmkbhcdt/image/upload/v1668667855/abstract-blur-coffee-shop-cafe-interior_74190-6342_r6mpot.jpg");
+    height: 120vh;
+   background-size: cover;
+}
+.Restaurentname{
+    text-align: center;
+    color: orangered;
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    font-weight: bold;
+}
+.layout{
+padding: 25px;
+margin: 5em;
+background-color: whitesmoke;
+border-radius: 8px;
+}
+.types{
+    color: brown;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 30px;
+text-align: left;
+}
+.paragraph{
+    color: purple;
+}
+.brandimg{
+    transition: (1.04);
+    width: 100px;
+    height: 100px;
+}
+
+
+
